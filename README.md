@@ -19,7 +19,7 @@ I'm Adithya Swaminathan, an undergraduate at UIUC (University of Illinois at Urb
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Lakers fanatic (since 2010, so you know I'm not a frontrunner), and also *coincidentally* happen to be a **huge** LeBron James fan
 
-## Contact Me!
+### Contact Me!
 
 Feel free to reach out to me!
 
