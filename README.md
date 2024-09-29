@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adithya Swaminathan, an undergraduate at UIUC (University of Illinois at Urbana-Champaign) working towards a degree in Computer Science and Math. Currently, I am seeking opportunities that will help me delve into the ML/AI and Cloud Computing subfields of CS. 
+I'm Adithya Swaminathan, a full-time Technology Engineer at IBM with a degree in Computer Science and Math. Currently, I am trying to expand my horizons and work on some cool projects for the fun of it. I'm looking for any cool opportunities in the ML/AI subfield as well!
 
 - 🔭 I’m currently working on my internship, but I am also still keeping up with developing projects on my own time.  
 - 🌱 I’m currently learning about LLMs (large language models), and I would love to have an opportunity to learn more!
